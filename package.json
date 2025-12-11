@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "reveal.js",
   "version": "5.2.1",
   "description": "The HTML Presentation Framework",

@@ -9,3 +9,13 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+
+#
+# no spoilers here :P
+#
+# check out 
+# https://github.com/janraasch/journey-to-django-code
+# for the code we'll build today
+#
+mvp.css
+playbook.md
